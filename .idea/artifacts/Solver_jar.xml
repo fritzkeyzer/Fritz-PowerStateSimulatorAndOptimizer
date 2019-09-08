@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Solver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Solver_jar</output-path>
+    <root id="archive" name="StateSimulator&amp;Optimizer.jar">
+      <element id="module-output" name="StateSimulator&amp;Optimizer" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/Solver_jar/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
